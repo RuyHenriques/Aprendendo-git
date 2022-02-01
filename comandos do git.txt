@@ -1,0 +1,10 @@
+COMANDOS  BASICOS DO GIT
+
+ENTRAR
+git init depois enter 
+
+VERIFICAR STATUS
+git status
+
+ADICIONAR ARQUIVOS AO CONTROLE DE VERSÃO
+git add "nome do arquivo"
