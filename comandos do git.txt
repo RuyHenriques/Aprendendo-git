@@ -7,4 +7,23 @@ VERIFICAR STATUS
 git status
 
 ADICIONAR ARQUIVOS AO CONTROLE DE VERSÃO
-git add "nome do arquivo"
+git add "nome do arquivo" depois enter
+
+PARA CONFIRMAR SE FOI ADICIONADO 
+git status NOVAMENTE
+
+PARA ADICIONAR TODOS OS ARQUIVOS PENDENTES (NÃO ADICIONADOS 
+git add . depois enter 
+
+COMO CRIAR VERSÕES DO CÓDIGO COM COMMIT > para add comentariso 
+git commit -m "commit inicial"
+
+COMO ENVIAR ALTERAÇÕES USANDO GIT PUSH
+git push
+git remote add origin ...o link do seu git
+
+CICLO DE ATALIZAÇÃO DO CÓDIGO
+
+
+19:50
+link da aula https://www.youtube.com/watch?v=kB5e-gTAl_s
